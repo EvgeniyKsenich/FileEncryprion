@@ -1,0 +1,6 @@
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\FileEncryprion\FileEncryprion\bin\Debug\FileEncryprion.exe.config
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\FileEncryprion\FileEncryprion\bin\Debug\FileEncryprion.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\FileEncryprion\FileEncryprion\bin\Debug\FileEncryprion.pdb
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\FileEncryprion\FileEncryprion\obj\Debug\FileEncryprion.csprojResolveAssemblyReference.cache
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\FileEncryprion\FileEncryprion\obj\Debug\FileEncryprion.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\FileEncryprion\FileEncryprion\obj\Debug\FileEncryprion.pdb
